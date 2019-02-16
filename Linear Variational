@@ -41,6 +41,13 @@ E_opt, c_opt = np.linalg.eig(H_mat)
 print(E_opt[0])
 print(c_opt[0])
 
+
+
+
+
+
+
+
 Matrix 6x6
 """
 Spyder Editor
