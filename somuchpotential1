@@ -126,7 +126,7 @@ k = cE(r_eq)
 
 ### define reduced mass of CO as m_C * m_O /(m_C + m_O) where mass is in atomic units (electron mass = 1)
 
-mu = 13625.
+mu = 12589.
 
 
 
