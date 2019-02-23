@@ -519,3 +519,4 @@ plt.show()
 plt.plot(mu*v_vs_t, r_vs_t, 'blue')
 
 plt.show()
+ 
